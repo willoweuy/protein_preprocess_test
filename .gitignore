@@ -1,0 +1,6 @@
+.conda-env/
+__pycache__/
+*.py[cod]
+.streamlit/
+.DS_Store
+*.pka
